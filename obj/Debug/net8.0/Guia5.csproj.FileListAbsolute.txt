@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\bin\Debug\net8.0\Guia5.exe
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\bin\Debug\net8.0\Guia5.deps.json
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\bin\Debug\net8.0\Guia5.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\bin\Debug\net8.0\Guia5.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\bin\Debug\net8.0\Guia5.pdb
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\refint\Guia5.dll
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.pdb
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\Guia5.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Escritorio\Practica de Formularios\Guia5\Guia5\obj\Debug\net8.0\ref\Guia5.dll
